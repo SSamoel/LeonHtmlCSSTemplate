@@ -27,8 +27,9 @@ The template is fully responsive and built using only HTML, CSS, and FontAwesome
 ## 📸 Screenshots
 
 | Landing Page |
-![Landing Page](./screenshoots/landingPage.jpg) 
-![Services Section](./screenshoots/ServicesSection.jpg) 
+![Landing Page](./screenshots/landingPage.jpg) 
+| Services Section |
+![Services Section](./screenshots/ServicesSection.jpg) 
 
 
 
